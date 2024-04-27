@@ -1,7 +1,10 @@
-# Two-factor autentication UI/UX
+<h1 align="center"> Two-factor autentication UI/UX</h1>
 
-I coded this window theme for the uiverse.io platform.
+<p align="center"> I coded this window theme for the uiverse.io platform. </p>
 
 
-## Preview
-![Two Factor Autenticator Preview](https://github.com/John-CFO/2FA-Auto-Frontend/blob/master/two-factor-verification.gif?raw=true)
+<h2 align="center"> Preview </h2>
+<div align="center">
+  <img src="https://github.com/John-CFO/2FA-Auto-Frontend/blob/master/two-factor-verification.gif?raw=true" alt="Two Factor Autenticator Preview" />
+</div>
+
